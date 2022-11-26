@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://mastodon.social/@rmedrano" rel="me">Follow me on Mastodon!</a>
+
 <!--
 **rmedranollamas/rmedranollamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
